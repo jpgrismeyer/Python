@@ -16,6 +16,3 @@ def invertir_palabra(palabra):
 palabra="Neuquen"
 print(invertir_palabra(palabra))
 
-#word="la puta madre"
-#for n in range(0,10):
-    #print(word[n])
