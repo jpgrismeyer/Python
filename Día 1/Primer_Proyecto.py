@@ -1,0 +1,1 @@
+print("El nombre de tu cerveza es: '"+input("sinonimo de bebida:")+" "+input("adjetivo superlativo:")+"'")

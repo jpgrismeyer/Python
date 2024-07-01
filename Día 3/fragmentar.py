@@ -1,0 +1,13 @@
+texto="ABCDEFGHIJKLM"
+FRAGMENTO=texto[2:5]
+print(FRAGMENTO)
+FRAGMENTO=texto[2:]
+print(FRAGMENTO)
+FRAGMENTO=texto[:5]
+print(FRAGMENTO)
+FRAGMENTO=texto[:]
+print(FRAGMENTO)
+FRAGMENTO=texto[2::2]
+print(FRAGMENTO)
+FRAGMENTO=texto[::-1]
+print(FRAGMENTO)
